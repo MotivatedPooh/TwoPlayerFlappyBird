@@ -1,0 +1,13 @@
+# Processing temporary and lock files
+*.pde.lock
+
+# Exported applications or build files
+*.exe
+*.app
+*.jar
+
+# macOS system files
+.DS_Store
+
+# Thumbs.db for Windows
+Thumbs.db
